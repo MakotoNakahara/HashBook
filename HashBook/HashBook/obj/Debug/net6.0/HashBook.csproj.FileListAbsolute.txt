@@ -1,0 +1,12 @@
+E:\C#\Dll\HashBook\HashBook\bin\Debug\net6.0\HashBook.deps.json
+E:\C#\Dll\HashBook\HashBook\bin\Debug\net6.0\HashBook.dll
+E:\C#\Dll\HashBook\HashBook\bin\Debug\net6.0\HashBook.pdb
+E:\C#\Dll\HashBook\HashBook\obj\Debug\net6.0\HashBook.csproj.AssemblyReference.cache
+E:\C#\Dll\HashBook\HashBook\obj\Debug\net6.0\HashBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Dll\HashBook\HashBook\obj\Debug\net6.0\HashBook.AssemblyInfoInputs.cache
+E:\C#\Dll\HashBook\HashBook\obj\Debug\net6.0\HashBook.AssemblyInfo.cs
+E:\C#\Dll\HashBook\HashBook\obj\Debug\net6.0\HashBook.csproj.CoreCompileInputs.cache
+E:\C#\Dll\HashBook\HashBook\obj\Debug\net6.0\HashBook.dll
+E:\C#\Dll\HashBook\HashBook\obj\Debug\net6.0\refint\HashBook.dll
+E:\C#\Dll\HashBook\HashBook\obj\Debug\net6.0\HashBook.pdb
+E:\C#\Dll\HashBook\HashBook\obj\Debug\net6.0\ref\HashBook.dll
